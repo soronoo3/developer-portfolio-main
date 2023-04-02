@@ -1,0 +1,116 @@
+body {
+    font-family: 'Heebo', sans-serif;
+}
+
+.hire {
+    background-color: orange;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.nav {
+    display: flex;
+    padding-left: 60%;
+    font-size: 30px;
+}
+
+.p {
+    padding-left: 150px;
+    width: 50%;
+}
+
+.see {
+    display: flex;
+    background: #FFF8F3;
+}
+
+.h {
+    font-size: 25px;
+}
+
+.hh {
+    font-size: 50px;
+}
+
+.bio {
+    text-align: justify;
+    width: 100%;
+    margin-bottom: 40px;
+    margin-top: -40px;
+
+}
+
+.img1 {
+    background-image: url(/Images/header_bg.png);
+    background-repeat: no-repeat;
+    height: 600px;
+}
+
+.cv {
+    text-decoration: none;
+    background-color: orange;
+    padding: 15px 40px;
+    border-radius: 5px;
+    margin-top: 500px;
+}
+
+.img-icon {
+    display: flex;
+    padding: 50px;
+}
+
+.icon {
+    margin: 10px;
+    padding: 20px;
+    background-color: bisque;
+}
+
+.ab {
+    margin-left: 45%;
+    font-size: 40px;
+}
+
+.about-me {
+    background-color: #f8caa9;
+    padding: 10px 50px 10px 50px;
+
+    margin: 150px;
+
+}
+
+.about {
+    display: flex;
+    margin-left: 10%;
+}
+
+.about div {
+    padding: 10px 40px;
+}
+
+.nm {
+    padding: 30px;
+}
+
+.what {
+    margin-left: 45%;
+    margin-bottom: 90px;
+    font-size: 40px;
+}
+
+.summary {
+    margin-left: 25%;
+    font-size: 50px;
+}
+
+.resume {
+    display: block;
+    padding: 50px;
+}
+
+.rsum {
+    display: flex;
+    padding: 50px;
+}
